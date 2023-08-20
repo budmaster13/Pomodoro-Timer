@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.timer {
+  text-align: center;
+}
+
+#timer-display {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 1rem;
+  padding: 8px 16px;
+  margin: 0 10px;
+}
